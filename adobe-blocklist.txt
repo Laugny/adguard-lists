@@ -19,6 +19,26 @@
 ||adobegov.com^
 ||adobeprojectm.com^
 
+! --- neu aus deinem AdGuard Query Log ---
+||uds.adobe-identity.com^
+||odin.adobe.com^
+||shared-components.adobe.com^
+||pps.services.adobe.com^
+||services.account.adobe.com^
+||commerce.adobe.com^
+||supportanyware.adobe.io^
+||id.adobe.com^
+||bps-il.adobe.io^
+||cc-api-behance.adobe.io^
+||p13n.adobe.io^
+||ims-na1.adobelogin.com^
+||adobeid-na1.services.adobe.com^
+||account.adobe.com^
+||www.adobe.com^
+||notify.adobe.io^
+||prod.wam.adobe.com^
+||connect-wam.creativecloud.adobe.com^
+
 ! --- Identity / auth / licensing / genuine / OOBE ---
 ||adobelogin.com^
 ||adobe-identity.com^
