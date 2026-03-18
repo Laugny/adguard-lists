@@ -1,0 +1,76 @@
+
+#
+# ADOBE Hosts block list
+#
+# 2026 Incendar.com https://incendar.com/
+# Adobe 2026 Hosts Block List https://incendar.com/pihole_adobe.php
+# LG 2026 Hosts Block list https://incendar.com/pihole_LG.php
+# ALL 2026 Hosts Block Lists https://incendar.com/hosts.php
+#
+# Blocks all Adobe domains.
+# Last modified: 30 Jan 2026
+#
+||adobe.com^
+||adobe.net^
+||adobe.io^
+||adobe.de^
+192.150.14.69
+192.150.18.101
+192.150.18.108
+192.150.22.40
+192.150.8.100
+192.150.8.118
+199.7.52.190
+199.7.54.72
+209-34-83-73.ood.opsource.net
+209.34.83.67
+209.34.83.73
+18.207.85.246
+52.6.155.20
+52.10.49.85
+23.22.30.141
+34.215.42.13
+52.84.156.37
+65.8.207.109
+3.220.11.113
+3.221.72.231
+3.216.32.253
+3.208.248.199
+3.219.243.226
+13.227.103.57
+34.192.151.90
+34.237.241.83
+44.240.189.42
+52.20.222.155
+52.208.86.132
+54.208.86.132
+63.140.38.120
+63.140.38.160
+63.140.38.169
+63.140.38.219
+18.228.243.121
+18.230.164.221
+54.156.135.114
+54.221.228.134
+54.224.241.105
+100.24.211.130
+162.247.242.20
+x0850n5e.1q9cz.adobestats.io
+3d5vic7so2.adobestats.io
+o987771.ingest.us.sentry.io
+a1815.dscr.akamai.net
+adobe.activate.com
+adobeereg.com
+crl.verisign.net
+ims-na1-prprod.adobelogin.com
+ocsp.spo1.verisign.com
+ood.opsource.net
+practivate.adobe
+practivate.adobe.
+practivate.adobe.ipp
+practivate.adobe.newoa
+practivate.adobe.ntp
+tss-geotrust-crl.thawte.com
+auth-cloudfront.prod.ims.adobejanus.com
+cn-assets.adobedtm.com.edgekey.net
+services.prod.ims.adobejanus.com
